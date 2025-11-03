@@ -1,0 +1,6 @@
+{
+  "name": "payu-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
